@@ -6,6 +6,7 @@ import java.io.*;
 public class ServerGreeter extends Thread {
 	//1. Create an object of the ServerSocket class
 
+	
 	public ServerGreeter() throws IOException {
 		//2. Initialize the ServerSocket object. In the parameters,
 		//   you must define the port at which the server will listen for connections.
