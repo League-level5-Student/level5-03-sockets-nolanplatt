@@ -49,7 +49,7 @@ public class ClientGreeter {
 		   
 		   // Close connection
 		  
-		   //s.close();
+		   s.close();
 		   
 		   
 
